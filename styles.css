@@ -1,0 +1,39 @@
+html {
+    background-color: gainsboro;  
+}
+
+main{
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  margin:8px;
+}
+h1{
+    font-size: 2em;
+}
+
+h2 {
+ color:purple;
+}
+
+table{
+    margin: auto;
+    border: 2px solid darkorchid;
+    width:650px;
+    border-collapse: separate;
+    text-align: start;
+}
+
+thead {
+    background-color: plum;
+}
+
+
+
+td{
+    border-top: 1px solid darkorchid;
+}
+
+.cell {
+    background-color: beige;
+    font-family: monospace;
+}
